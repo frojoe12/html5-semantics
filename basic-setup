@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Title</title>
+  </head>
+  <body>
+    <header>
+      <h1>Heading one</h1>
+      <nav></nav>
+    </header>
+    <article>
+      <h2>Heading two</h2>
+      <section>
+        <h3>Heading Three</h3>
+      </section>
+      <section>
+        <h3>Heading Three</h3>
+      </section>
+      <section>
+        <h3>Heading Three</h3>
+      </section>
+    </article>
+    <aside></aside>
+    <footer></footer>
+  </body>
+</html>
