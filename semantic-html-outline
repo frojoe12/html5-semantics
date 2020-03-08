@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Page Title | Site Name</title>
+    <!--[if lt IE9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![end if]-->
+  </head>
+  <body>
+    <header>
+      <h1>1st Heading</h1>
+      <p>tagline</p>
+      <nav>
+        <ul>
+          <li>
+            <a href="">Link 1</a>
+          </li>
+          <li>
+            <a href="">Link 2</a>
+          </li>
+          <li>
+            <a href="">Link 3</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <header>
+        <h2>2nd Heading</h2>
+        <p><a href="">breadcrumb</a></p>
+      </header>
+      <article>
+        <header>
+          <h3>3rd Heading</h3>
+          <p>Article text</p>
+        </header>
+        <h4>4th Heading</h4>
+        <p>Article text</p>
+        <h4>4th Heading</h4>
+        <p>Article text</p>
+        <h4>4th Heading</h4>
+        <p>Article text</p>
+        <h4>4th Heading</h4>
+        <p>Article text</p>
+        <section>
+          <header>
+            <h3>Comments</h3>
+            <p>To leave a comment ... <a href="">click</a></p>
+          </header>
+          <article>
+            <h4>Comment One</h4>
+            <p>Comment details</p>
+          </article>
+        </section>
+      </article>
+    </main>
+    <section>
+      <h2>2nd Heading</h2>
+      <article>
+        <h3>3rd Heading</h3>
+        <h3>3rd Heading</h3>
+      </article>
+    </section>
+    <aside>
+      <h3>3rd Heading</h3>
+    </aside>
+    <article>
+      <header><h3>Intro</h3></header>
+      <p>content</p>
+    </article>
+    <footer>
+      <p><a>tel</a></p>
+      <p><a>email</a></p>
+      <p>address</p>
+      <p></p>
+      <p></p>
+    </footer>
+  </body>
+</html>
